@@ -26,10 +26,6 @@ Because why pay 0.4% UPI MDR charges on Merchant transactions above ₹2,000 whe
   - `path_provider`: For temporary file storage during sharing.
   - `intl`: For Indian Rupee (₹) currency formatting.
 
-## 📱 Screenshots & Demo
-
-*(Add your screenshots or Loom video link here!)*
-
 ## 💻 How to Run
 
 1. Make sure you have [Flutter](https://docs.flutter.dev/get-started/install) installed on your machine.
