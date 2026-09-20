@@ -2,7 +2,7 @@
 
 A modern, fintech-style Flutter application prototype that takes any total payment amount, automatically splits it into manageable payment portions of **₹1,999**, and generates a separate UPI QR code for each portion. 
 
-Because why pay 1.1% UPI MDR charges on wallet transactions above ₹2,000 when you can just write a `while(amount > 2000)` loop? 🤷‍♂️
+Because why pay 0.4% UPI MDR charges on Merchant transactions above ₹2,000 when you can just write a `while(amount > 2000)` loop? 🤷‍♂️
 
 ## 🚀 Features
 
